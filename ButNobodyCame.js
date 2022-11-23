@@ -16,7 +16,7 @@ let i = 0
 let line = ''
 
 // the first time opening
-const firstTime = 'Greetings.*I am JustaTama.*Thank you.*Sức mạnh của bạn đã đánh thức tôi từ cõi chết.*"Linh hồn con người" của tôi...*"Quyết tâm" của tôi...*Chúng không phải của tôi, mà là CỦA BẠN.*Lúc đầu, Tôi đã rất bối rối.*Kế hoạch của chúng tôi đã thất bại, phải không?*Tại sao tôi được hồi sinh?*...Có lẽ là vì có Bạn.*Với sự hướng dẫn của bạn.*Tôi nhận ra mục đích tái sinh của mình.*Sức mạnh.*Cùng nhau, chúng ta diệt trừ kẻ thù và trở nên mạnh mẽ.*HP. ATK. DEF. GOLD. EXP. LV.*Mỗi khi một con số tăng lên, cảm giác đó...*Đó là tôi.*"JustaTama."*Bây giờ.*Bây giờ chúng tôi đã đạt đến mức tuyệt đối.*Không còn gì cho chúng tôi ở đây.*$Hãy để chúng tôi xóa thế giới vô nghĩa này và chuyển sang thế giới tiếp theo.&*'
+const firstTime = 'Greetings.*I am JustaTama.*Thank you.*Sức mạnh của bạn đã đánh thức tôi từ cõi chết.*"Linh hồn con người" của tôi...*"Quyết tâm" của tôi...*Chúng không phải của tôi, mà là CỦA BẠN.*Lúc đầu, Tôi đã rất bối rối.*Kế hoạch của chúng ta đã thất bại, phải không?*Tại sao tôi được hồi sinh?*...Có lẽ là vì có Bạn.*Với sự hướng dẫn của bạn.*Tôi nhận ra mục đích tái sinh của mình.*Sức mạnh.*Cùng nhau, chúng ta diệt trừ kẻ thù và trở nên mạnh mẽ.*HP. ATK. DEF. GOLD. EXP. LV.*Mỗi khi một con số tăng lên, cảm giác đó...*Đó là tôi.*"JustaTama."*Bây giờ.*Bây giờ chúng ta đã đạt đến mức tuyệt đối.*Không còn gì cho chúng ta ở đây.*$Hãy để chúng ta xóa thế giới vô nghĩa này và chuyển sang thế giới tiếp theo.&*'
 
 // selecting "Erase"
 const erase = '^Phải rồi.*Bạn là một người đồng hành tuyệt vời.*Chúng ta sẽ bên nhau mãi mãi, phải không?@~'
